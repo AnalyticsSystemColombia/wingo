@@ -4,3 +4,4 @@
 # 3. cuando se tenga todo instalado ejecutar el comando ./node_modules/.bin/cypress open
 # 4. carpeta que contine el script para pruebas wingo/wingocy.js
 # 5.cuando se abra el navegador selecionar, alguno y ejecutar el archivo.
+# 6. hacer click sobre wingo.mp4 y descargar para ver el video.
